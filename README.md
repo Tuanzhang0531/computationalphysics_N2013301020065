@@ -25,8 +25,8 @@
 ### 第二次作业
 - 已完成
 
-### 第三次作业
-- 作业L1 [在屏幕上用字符拼出自己姓名的英文（已完成）](https://github.com/Tuanzhang0531/computationalphysics_N2013301020065/blob/master/exercise_3)
+### [第三次作业](https://github.com/Tuanzhang0531/computationalphysics_N2013301020065/blob/master/exercise_3)
+- 作业L1 在屏幕上用字符拼出自己姓名的英文（已完成）
 - 作业L2 在屏幕上用字符拼出任意次序的姓名(暂未完成)
 - 作业L3 在80*80点阵上用字符拼出你想画的东西，希望脑洞大开！（比如字符，火柴人，实现移动、旋转等等）（暂未完成）
 
@@ -36,10 +36,10 @@
 > i = os.system('cls')
 > ```
 
-### 第四次作业
+### [第四次作业](https://github.com/Tuanzhang0531/computationalphysics_N2013301020065/tree/master/CHAPTER-one/chapter-one-problem-1)
 - 完成第一章的练习题（自己任选一题）
 - 使用matplotlib完成图片的各种细节，认真写报告
-[已完成，所选题目为1.1](https://github.com/Tuanzhang0531/computationalphysics_N2013301020065/tree/master/CHAPTER-one/chapter-one-problem-1)
+(已完成，所选题目为1.1)
 
 ### 第五次作业
 - 继续用第一章的练习题熟悉python编程，并熟练撰写markdown文档（暂未完成）
