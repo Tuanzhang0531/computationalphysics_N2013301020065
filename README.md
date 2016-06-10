@@ -36,7 +36,7 @@
 > i = os.system('cls')
 > ```
 
-### [第四次作业](https://github.com/Tuanzhang0531/computationalphysics_N2013301020065/tree/master/CHAPTER-one/chapter-one-problem-1)
+### [第四次作业](https://www.zybuluo.com/BertramLee/note/321824)
 - 完成第一章的练习题（自己任选一题）
 - 使用matplotlib完成图片的各种细节，认真写报告
 (已完成，所选题目为1.1)
