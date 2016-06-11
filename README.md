@@ -20,7 +20,7 @@
 
 ## Homework of Computational Physics
 ### 第一次作业
-- 现在使用的是window系统的狂蟒之灾，安装过Linux系统，但是个人驾驭不了。。。
+- 现在使用的是window系统的狂蟒之灾。
 
 ### 第二次作业
 - 已完成
